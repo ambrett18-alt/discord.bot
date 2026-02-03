@@ -5,7 +5,7 @@ import json
 import os
 
 # ---------- CONFIG ----------
-TOKEN = "MTQ2NzgxNzg2MDkzOTM4Mjk4MQ.Gvawob.aRVllI4KWRN7I6ig8X0SLfSFhrZYawPZfEjdsQ"
+TOKEN = "MTQ2NzgxNzg2MDkzOTM4Mjk4MQ.GXKBxh.uV7bcRu465WXa7qou2_AhXwaPYi_rPLCUCIhrA"
 GUILD_ID = 1465985398156165279  # replace with your server ID
 WELCOME_CHANNEL_ID = 1465986351269675130  # replace with your welcome channel ID
 TICKET_CATEGORY_ID = 1465985576372011193  # replace with your ticket category ID
@@ -156,3 +156,4 @@ async def ticket_panel(ctx=None):
 
 # ---------- RUN BOT ----------
 bot.run(TOKEN)
+
